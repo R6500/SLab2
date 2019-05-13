@@ -1,0 +1,1814 @@
+Archive member included because of file (symbol)
+
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o (__aeabi_f2d)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o (__aeabi_dmul)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o (__aeabi_d2f)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o (pow)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o) (fabs)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (finite)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (__fpclassifyd)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_lib_ver.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (__fdlib_version)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (matherr)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o) (nan)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (rint)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o) (scalbn)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o) (copysign)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (__aeabi_dcmpeq)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o) (__errno)
+m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o) (_impure_ptr)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 build/obj/crt0_v7m.o
+ .bss           0x00000000        0x0 build/obj/crt0_v7m.o
+ .data          0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .bss           0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .text          0x00000000        0x0 build/obj/crt1.o (symbol from plugin)
+ .text          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .data          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .text          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .data          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .text          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .data          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .text          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+ .data          0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+ .bss           0x00000000        0x0 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000        0x0 build/obj/vectors.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdebug.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtrace.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chvt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chschd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chthreads.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chregistry.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcond.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chevents.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdynamic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmboxes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmemcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmempools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore_v7m.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/osal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_buffers.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_queues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_mmcsd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_ext.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nvic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_ext_lld_isr.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_ext_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/board.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/serial.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/analog.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/tran.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/dio.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/main.o (symbol from plugin)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash0           0x08000000         0x00080000
+flash1           0x00000000         0x00000000
+flash2           0x00000000         0x00000000
+flash3           0x00000000         0x00000000
+flash4           0x00000000         0x00000000
+flash5           0x00000000         0x00000000
+flash6           0x00000000         0x00000000
+flash7           0x00000000         0x00000000
+ram0             0x20000000         0x00010000
+ram1             0x00000000         0x00000000
+ram2             0x00000000         0x00000000
+ram3             0x00000000         0x00000000
+ram4             0x10000000         0x00004000
+ram5             0x00000000         0x00000000
+ram6             0x00000000         0x00000000
+ram7             0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/obj/crt0_v7m.o
+LOAD build/obj/chcoreasm_v7m.o
+LOAD build/obj/crt1.o
+LOAD M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+LOAD M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+LOAD M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+LOAD M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+LOAD m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a
+LOAD m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a
+LOAD m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+LOAD build/obj/vectors.o
+LOAD build/obj/chsys.o
+LOAD build/obj/chdebug.o
+LOAD build/obj/chtrace.o
+LOAD build/obj/chvt.o
+LOAD build/obj/chschd.o
+LOAD build/obj/chthreads.o
+LOAD build/obj/chtm.o
+LOAD build/obj/chregistry.o
+LOAD build/obj/chsem.o
+LOAD build/obj/chmtx.o
+LOAD build/obj/chcond.o
+LOAD build/obj/chevents.o
+LOAD build/obj/chmsg.o
+LOAD build/obj/chdynamic.o
+LOAD build/obj/chmboxes.o
+LOAD build/obj/chmemcore.o
+LOAD build/obj/chheap.o
+LOAD build/obj/chmempools.o
+LOAD build/obj/chcore.o
+LOAD build/obj/chcore_v7m.o
+LOAD build/obj/osal.o
+LOAD build/obj/hal.o
+LOAD build/obj/hal_st.o
+LOAD build/obj/hal_buffers.o
+LOAD build/obj/hal_queues.o
+LOAD build/obj/hal_mmcsd.o
+LOAD build/obj/hal_ext.o
+LOAD build/obj/hal_gpt.o
+LOAD build/obj/hal_pal.o
+LOAD build/obj/hal_serial.o
+LOAD build/obj/nvic.o
+LOAD build/obj/hal_lld.o
+LOAD build/obj/hal_ext_lld_isr.o
+LOAD build/obj/stm32_dma.o
+LOAD build/obj/hal_ext_lld.o
+LOAD build/obj/hal_pal_lld.o
+LOAD build/obj/hal_st_lld.o
+LOAD build/obj/hal_gpt_lld.o
+LOAD build/obj/hal_serial_lld.o
+LOAD build/obj/board.o
+LOAD build/obj/chprintf.o
+LOAD build/obj/serial.o
+LOAD build/obj/analog.o
+LOAD build/obj/tran.o
+LOAD build/obj/dio.o
+LOAD build/obj/test.o
+LOAD build/obj/main.o
+LOAD m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+
+.mstack         0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __main_stack_base__ = .
+                0x20000400                . = (. + __main_stack_size__)
+ *fill*         0x20000000      0x400 
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                __main_stack_end__ = .
+
+.pstack         0x20000400      0x400
+                0x20000400                __process_stack_base__ = .
+                0x20000400                __main_thread_stack_base__ = .
+                0x20000800                . = (. + __process_stack_size__)
+ *fill*         0x20000400      0x400 
+                0x20000800                . = ALIGN (0x8)
+                0x20000800                __process_stack_end__ = .
+                0x20000800                __main_thread_stack_end__ = .
+
+.vectors        0x08000000      0x200
+ *(.vectors)
+ .vectors       0x08000000      0x200 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08000000                _vectors
+
+.xtors          0x08000200        0x0
+                0x08000200                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x08000200                __init_array_end = .
+                0x08000200                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x08000200                __fini_array_end = .
+
+.text           0x08000200     0x6150
+ *(.text)
+ .text          0x08000200      0x12c build/obj/crt0_v7m.o
+                0x08000200                Reset_Handler
+ .text          0x0800032c       0x30 build/obj/chcoreasm_v7m.o
+                0x0800032c                _port_switch
+                0x08000344                _port_thread_start
+                0x08000354                _port_switch_from_isr
+                0x08000358                _port_exit_from_isr
+ .text          0x0800035c      0x370 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                0x0800035c                __aeabi_drsub
+                0x08000364                __aeabi_dsub
+                0x08000364                __subdf3
+                0x08000368                __aeabi_dadd
+                0x08000368                __adddf3
+                0x080005e0                __floatunsidf
+                0x080005e0                __aeabi_ui2d
+                0x08000600                __floatsidf
+                0x08000600                __aeabi_i2d
+                0x08000624                __aeabi_f2d
+                0x08000624                __extendsfdf2
+                0x08000660                __floatundidf
+                0x08000660                __aeabi_ul2d
+                0x08000670                __floatdidf
+                0x08000670                __aeabi_l2d
+ .text          0x080006cc      0x424 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                0x080006cc                __aeabi_dmul
+                0x080006cc                __muldf3
+                0x08000920                __divdf3
+                0x08000920                __aeabi_ddiv
+ .text          0x08000af0       0xa0 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+                0x08000af0                __truncdfsf2
+                0x08000af0                __aeabi_d2f
+ .text          0x08000b90      0x110 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                0x08000b90                __gtdf2
+                0x08000b90                __gedf2
+                0x08000b98                __ltdf2
+                0x08000b98                __ledf2
+                0x08000ba0                __nedf2
+                0x08000ba0                __eqdf2
+                0x08000ba0                __cmpdf2
+                0x08000c1c                __aeabi_cdrcmple
+                0x08000c2c                __aeabi_cdcmpeq
+                0x08000c2c                __aeabi_cdcmple
+                0x08000c3c                __aeabi_dcmpeq
+                0x08000c50                __aeabi_dcmplt
+                0x08000c64                __aeabi_dcmple
+                0x08000c78                __aeabi_dcmpge
+                0x08000c8c                __aeabi_dcmpgt
+ *(.text.*)
+ .text.startup.main
+                0x08000ca0     0x1b10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x08000ca0                main
+ .text.wakeup.4726.4215
+                0x080027b0       0x80 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .text.long_to_string_with_divisor.9360.constprop.3.4409
+                0x08002830       0x50 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .text.buttonCall.10500
+                0x08002880       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002880                buttonCall.10500
+ .text.dualWavePlayCallback.9910
+                0x08002890      0x100 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002890                dualWavePlayCallback.9910
+ .text.wavePlayCallback.9907
+                0x08002990       0xd0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002990                wavePlayCallback.9907
+ .text.singleWaveResponseCallback.9904
+                0x08002a60      0x150 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002a60                singleWaveResponseCallback.9904
+ .text.dualWaveResponseCallback.9901
+                0x08002bb0      0x220 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002bb0                dualWaveResponseCallback.9901
+ .text.notify2.9246
+                0x08002dd0       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002dd0                notify2.9246
+ .text.SVC_Handler
+                0x08002de0       0x20 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002de0                SVC_Handler
+ .text.chCoreAllocAligned
+                0x08002e00       0x40 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002e00                chCoreAllocAligned
+ .text._idle_thread.4351
+                0x08002e40       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002e40                _idle_thread.4351
+ .text.chTMStartMeasurementX.constprop.25
+                0x08002e50       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002e50                chTMStartMeasurementX.constprop.25
+ .text.gptStop.constprop.12
+                0x08002e60       0x50 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002e60                gptStop.constprop.12
+ .text.gptStartContinuous.constprop.10
+                0x08002eb0       0x40 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002eb0                gptStartContinuous.constprop.10
+ .text.gptStopTimer.constprop.8
+                0x08002ef0       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002ef0                gptStopTimer.constprop.8
+ .text.chprintf.constprop.1
+                0x08002f20      0x2c0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08002f20                chprintf.constprop.1
+ .text.ACdisable
+                0x080031e0       0x20 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080031e0                ACdisable
+ .text._pal_lld_setgroupmode
+                0x08003200       0xf0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003200                _pal_lld_setgroupmode
+ .text._port_irq_epilogue
+                0x080032f0       0x70 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080032f0                _port_irq_epilogue
+ .text.VectorB0
+                0x08003360       0xa0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003360                VectorB0
+ .text.VectorB4
+                0x08003400       0x40 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003400                VectorB4
+ .text.Vector148
+                0x08003440       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003440                Vector148
+ .text.Vector144
+                0x08003470       0x70 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003470                Vector144
+ .text.Vector140
+                0x080034e0       0x60 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080034e0                Vector140
+ .text.Vector4C
+                0x08003540       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003540                Vector4C
+ .text.Vector48
+                0x08003570       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003570                Vector48
+ .text.VectorE8
+                0x080035a0       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080035a0                VectorE8
+ .text.VectorE4
+                0x080035d0       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080035d0                VectorE4
+ .text.Vector44
+                0x08003600       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003600                Vector44
+ .text.VectorE0
+                0x08003630       0x80 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003630                VectorE0
+ .text.Vector9C
+                0x080036b0       0x70 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080036b0                Vector9C
+ .text.Vector68
+                0x08003720       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003720                Vector68
+ .text.Vector64
+                0x08003750       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003750                Vector64
+ .text.Vector60
+                0x08003780       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003780                Vector60
+ .text.Vector5C
+                0x080037b0       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080037b0                Vector5C
+ .text.Vector58
+                0x080037e0       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080037e0                Vector58
+ .text.chTMStopMeasurementX
+                0x08003810       0x50 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003810                chTMStopMeasurementX
+ .text.chSchGoSleepS
+                0x08003860       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003860                chSchGoSleepS
+ .text.chThdEnqueueTimeoutS
+                0x08003890      0x120 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003890                chThdEnqueueTimeoutS
+ .text.iqReadTimeout
+                0x080039b0       0xb0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x080039b0                iqReadTimeout
+ .text.oqPutTimeout
+                0x08003a60       0x60 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003a60                oqPutTimeout
+ .text.sendCRC  0x08003ac0       0x20 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003ac0                sendCRC
+ .text.sendByte
+                0x08003ae0       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003ae0                sendByte
+ .text.sendU16  0x08003b10       0x60 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003b10                sendU16
+ .text.dumpInBuffer
+                0x08003b70       0xf0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003b70                dumpInBuffer
+ .text.sendMantExp
+                0x08003c60       0x40 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003c60                sendMantExp
+ .text._putt.8456
+                0x08003ca0       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003ca0                _putt.8456
+ .text._put.8461
+                0x08003cb0       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003cb0                _put.8461
+ .text.oqWriteTimeout.4272
+                0x08003cc0       0xb0 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .text._writet.8438
+                0x08003d70       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003d70                _writet.8438
+ .text._write.8444
+                0x08003d80       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003d80                _write.8444
+ .text.chSchReadyI
+                0x08003d90       0x30 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003d90                chSchReadyI
+ .text.chEvtBroadcastFlagsI
+                0x08003dc0       0x60 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003dc0                chEvtBroadcastFlagsI
+ .text._unhandled_exception.4552
+                0x08003e20       0x10 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                0x08003e20                VectorAC
+                0x08003e20                DebugMon_Handler
+                0x08003e20                Vector11C
+                0x08003e20                HardFault_Handler
+                0x08003e20                Vector19C
+                0x08003e20                Vector8C
+                0x08003e20                SysTick_Handler
+                0x08003e20                VectorDC
+                0x08003e20                PendSV_Handler
+                0x08003e20                Vector168
+                0x08003e20                NMI_Handler
+                0x08003e20                Vector110
+                0x08003e20                Vector120
+                0x08003e20                VectorC8
+                0x08003e20                Vector94
+                0x08003e20                VectorA8
+                0x08003e20                Vector74
+                0x08003e20                Vector160
+                0x08003e20                UsageFault_Handler
+                0x08003e20                VectorEC
+                0x08003e20                Vector40
+                0x08003e20                VectorF8
+                0x08003e20                Vector108
+                0x08003e20                VectorBC
+                0x08003e20                Vector190
+                0x08003e20                Vector150
+                0x08003e20                Vector124
+                0x08003e20                Vector188
+                0x08003e20                Vector198
+                0x08003e20                Vector118
+                0x08003e20                VectorCC
+                0x08003e20                Vector54
+                0x08003e20                Vector98
+                0x08003e20                Vector138
+                0x08003e20                Vector24
+                0x08003e20                Vector178
+                0x08003e20                Vector84
+                0x08003e20                VectorD0
+                0x08003e20                VectorC0
+                0x08003e20                Vector158
+                0x08003e20                Vector130
+                0x08003e20                Vector134
+                0x08003e20                VectorF0
+                0x08003e20                Vector12C
+                0x08003e20                Vector13C
+                0x08003e20                Vector100
+                0x08003e20                VectorF4
+                0x08003e20                MemManage_Handler
+                0x08003e20                Vector6C
+                0x08003e20                VectorA0
+                0x08003e20                VectorC4
+                0x08003e20                Vector7C
+                0x08003e20                Vector180
+                0x08003e20                Vector90
+                0x08003e20                Vector114
+                0x08003e20                Vector164
+                0x08003e20                Vector1C
+                0x08003e20                Vector17C
+                0x08003e20                Vector16C
+                0x08003e20                Vector70
+                0x08003e20                VectorD4
+                0x08003e20                Vector80
+                0x08003e20                Vector15C
+                0x08003e20                Vector78
+                0x08003e20                Vector170
+                0x08003e20                Vector88
+                0x08003e20                Vector104
+                0x08003e20                Vector184
+                0x08003e20                Vector10C
+                0x08003e20                Vector14C
+                0x08003e20                BusFault_Handler
+                0x08003e20                Vector50
+                0x08003e20                Vector194
+                0x08003e20                Vector154
+                0x08003e20                Vector28
+                0x08003e20                VectorB8
+                0x08003e20                VectorFC
+                0x08003e20                Vector34
+                0x08003e20                Vector128
+                0x08003e20                VectorA4
+                0x08003e20                Vector20
+                0x08003e20                Vector18C
+                0x08003e20                Vector174
+ .text.VectorD8.4231
+                0x08003e30      0x1a0 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .text._readt.8426
+                0x08003fd0       0x10 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08003fd0                _readt.8426
+ .text._read.8433
+                0x08003fe0       0x10 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08003fe0                _read.8433
+ .text.softReset
+                0x08003ff0      0x590 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08003ff0                softReset
+ .text.gptStart.constprop.14
+                0x08004580       0x80 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08004580                gptStart.constprop.14
+ .text.ACenable
+                0x08004600      0x160 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08004600                ACenable
+ .text.iqGetTimeout
+                0x08004760       0x60 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08004760                iqGetTimeout
+ .text.crcResponse
+                0x080047c0       0x50 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x080047c0                crcResponse
+ .text.getByte  0x08004810       0x20 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08004810                getByte
+ .text.getU16   0x08004830       0x40 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08004830                getU16
+ .text._gett.8449
+                0x08004870       0x10 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08004870                _gett.8449
+ .text._get.8453
+                0x08004880       0x10 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                0x08004880                _get.8453
+ .text.waveResponseCallback.9898
+                0x08004890      0x1f0 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08004890                waveResponseCallback.9898
+ .text.stepResponseCallback.9895
+                0x08004a80      0x150 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08004a80                stepResponseCallback.9895
+ .text.asyncReadCallback.9915
+                0x08004bd0      0x130 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08004bd0                asyncReadCallback.9915
+ .text.triggeredReadCallback.9892
+                0x08004d00      0x1e0 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08004d00                triggeredReadCallback.9892
+ .text.__early_init
+                0x08004ee0       0x90 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08004ee0                __early_init
+ .text.chThdExit
+                0x08004f70       0x50 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08004f70                chThdExit
+ .text.chSchDoReschedule
+                0x08004fc0       0x40 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08004fc0                chSchDoReschedule
+ .text.__init_ram_areas
+                0x08005000       0x60 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08005000                __init_ram_areas
+ .text.__default_exit
+                0x08005060       0x10 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08005060                __default_exit
+ .text.__late_init
+                0x08005070       0x10 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08005070                __late_init
+ .text.__core_init
+                0x08005080       0x10 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                0x08005080                __core_init
+ .text.pow      0x08005090      0x340 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+                0x08005090                pow
+ .text.__ieee754_pow
+                0x080053d0      0xae8 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+                0x080053d0                __ieee754_pow
+ .text.__ieee754_sqrt
+                0x08005eb8      0x198 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+                0x08005eb8                __ieee754_sqrt
+ .text.fabs     0x08006050       0x14 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+                0x08006050                fabs
+ .text.finite   0x08006064       0x10 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+                0x08006064                finite
+ .text.__fpclassifyd
+                0x08006074       0x54 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+                0x08006074                __fpclassifyd
+ .text.matherr  0x080060c8        0x4 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+                0x080060c8                matherr
+ *fill*         0x080060cc        0x4 
+ .text.nan      0x080060d0       0x10 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+                0x080060d0                nan
+ .text.rint     0x080060e0      0x120 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+                0x080060e0                rint
+ .text.scalbn   0x08006200      0x120 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+                0x08006200                scalbn
+ .text.copysign
+                0x08006320       0x24 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+                0x08006320                copysign
+ .text.__errno  0x08006344        0xc m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+                0x08006344                __errno
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.gcc*)
+
+.vfp11_veneer   0x08006350        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08006350        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08006350        0x0
+ .iplt          0x00000000        0x0 build/obj/crt0_v7m.o
+
+.rodata         0x08006350      0x33c
+                0x08006350                . = ALIGN (0x4)
+                0x08006350                __rodata_base__ = .
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.ch_debug
+                0x08006350       0x18 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.trigCFG.10003.4912
+                0x08006368       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.asyncCFG.9998.4913
+                0x08006378       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.waveCFG.10000.4905
+                0x08006388       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.vmt.8548.4917
+                0x08006398       0x20 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.stepCFG.9999.4907
+                0x080063b8       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.dualWaveCFG.10001.4904
+                0x080063c8       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.wavePlayCFG.9996.4902
+                0x080063d8       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.dualWavePlayCFG.9997.4901
+                0x080063e8       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.str1.4
+                0x080063f8       0xa1 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                 0xa4 (size before relaxing)
+ *fill*         0x08006499        0x3 
+ .rodata.singleWaveCFG.10002.4903
+                0x0800649c       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .rodata.str1.4
+                0x080064ac        0x7 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                 0x10 (size before relaxing)
+ *fill*         0x080064b3        0x1 
+ .rodata.extcfg.10561.4589
+                0x080064b4      0x110 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .rodata.ram_areas.4021.4246
+                0x080065c4       0x80 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+ .rodata.str1.4
+                0x08006644        0x4 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+ .rodata.dp_h   0x08006648       0x10 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .rodata.dp_l   0x08006658       0x10 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .rodata.bp     0x08006668       0x10 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .rodata.str1.4
+                0x00000000        0x4 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .rodata.TWO52  0x08006678       0x10 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+ .rodata.str1.4
+                0x08006688        0x4 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                0x0800668c                . = ALIGN (0x4)
+                0x0800668c                __rodata_end__ = .
+
+.rel.dyn        0x0800668c        0x0
+ .rel.iplt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x0800668c        0x0
+                0x0800668c                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0800668c                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+                0x20000000                __ram0_start__ = ORIGIN (ram0)
+                0x00010000                __ram0_size__ = 0x10000
+                0x20010000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
+                0x00000000                __ram1_start__ = ORIGIN (ram1)
+                0x00000000                __ram1_size__ = 0x0
+                0x00000000                __ram1_end__ = (__ram1_start__ + __ram1_size__)
+                0x00000000                __ram2_start__ = ORIGIN (ram2)
+                0x00000000                __ram2_size__ = 0x0
+                0x00000000                __ram2_end__ = (__ram2_start__ + __ram2_size__)
+                0x00000000                __ram3_start__ = ORIGIN (ram3)
+                0x00000000                __ram3_size__ = 0x0
+                0x00000000                __ram3_end__ = (__ram3_start__ + __ram3_size__)
+                0x10000000                __ram4_start__ = ORIGIN (ram4)
+                0x00004000                __ram4_size__ = 0x4000
+                0x10004000                __ram4_end__ = (__ram4_start__ + __ram4_size__)
+                0x00000000                __ram5_start__ = ORIGIN (ram5)
+                0x00000000                __ram5_size__ = 0x0
+                0x00000000                __ram5_end__ = (__ram5_start__ + __ram5_size__)
+                0x00000000                __ram6_start__ = ORIGIN (ram6)
+                0x00000000                __ram6_size__ = 0x0
+                0x00000000                __ram6_end__ = (__ram6_start__ + __ram6_size__)
+                0x00000000                __ram7_start__ = ORIGIN (ram7)
+                0x00000000                __ram7_size__ = 0x0
+                0x00000000                __ram7_end__ = (__ram7_start__ + __ram7_size__)
+
+.data           0x20000800      0x44c load address 0x0800668c
+                0x20000800                . = ALIGN (0x4)
+                0x0800668c                PROVIDE (_textdata, LOADADDR (.data))
+                0x20000800                PROVIDE (_data, .)
+                0x0800668c                _textdata_start = LOADADDR (.data)
+                0x20000800                _data_start = .
+ *(.data)
+ *(.data.*)
+ .data.nread    0x20000800        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000800                nread
+ .data.n_ai     0x20000804        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000804                n_ai
+ .data.vref     0x20000808        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000808                vref
+ .data.stime    0x2000080c        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x2000080c                stime
+ .data.resetState.4839
+                0x20000810        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .data.n_s      0x20000814        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000814                n_s
+ .data.w_n      0x20000818        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000818                w_n
+ .data.__fdlib_version
+                0x2000081c        0x1 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_lib_ver.o)
+                0x2000081c                __fdlib_version
+ *fill*         0x2000081d        0x3 
+ .data.impure_data
+                0x20000820      0x428 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000c48        0x4 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                0x20000c48                _impure_ptr
+ *(.ramtext)
+                0x20000c4c                . = ALIGN (0x4)
+                0x20000c4c                PROVIDE (_edata, .)
+                0x20000c4c                _data_end = .
+
+.igot.plt       0x20000c4c        0x0 load address 0x08006ad8
+ .igot.plt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.bss            0x20000c50     0xed8c load address 0x08006ad8
+                0x20000c50                . = ALIGN (0x4)
+                0x20000c50                _bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.crcRx     0x20000c50        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c50                crcRx
+ .bss.crcTx     0x20000c54        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c54                crcTx
+ .bss.samples   0x20000c58        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c58                samples
+ .bss.triggerSample
+                0x20000c5c        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c5c                triggerSample
+ .bss.timeout_error
+                0x20000c60        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c60                timeout_error
+ .bss.samplePhase
+                0x20000c64        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c64                samplePhase
+ .bss.default_heap.7188.4868
+                0x20000c68       0x20 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss.triggerMode
+                0x20000c88        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c88                triggerMode
+ .bss.w_s2      0x20000c8c        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c8c                w_s2
+ .bss.overrun_error
+                0x20000c90        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c90                overrun_error
+ .bss.overrun   0x20000c94        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c94                overrun
+ .bss.currentBsize
+                0x20000c98        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000c98                currentBsize
+ .bss.SConfig.4843
+                0x20000c9c       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss.presamples
+                0x20000cac        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000cac                presamples
+ .bss.waved_base
+                0x20000cb0        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000cb0                waved_base
+ .bss.waved_mask.4835
+                0x20000cb4        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss.tranBuff  0x20000cb8        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000cb8                tranBuff
+ .bss.sd_out_buf2.9282.4869
+                0x20000cbc       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss.endmem.7038
+                0x20000ccc        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000ccc                endmem.7038
+ .bss.wave2buff
+                0x20000cd0        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000cd0                wave2buff
+ .bss.nextmem.7034
+                0x20000cd4        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000cd4                nextmem.7034
+ .bss.ch_idle_thread_wa.4845
+                0x20000cd8      0x160 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss.w_pos2    0x20000e38        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000e38                w_pos2
+ .bss.sd_in_buf2.9283.4870
+                0x20000e3c       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss.halt      0x20000e4c        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000e4c                halt
+ .bss.w_pos     0x20000e50        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000e50                w_pos
+ .bss.channelAC
+                0x20000e54        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000e54                channelAC
+ .bss.inBuffPos
+                0x20000e58        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000e58                inBuffPos
+ .bss.stepValue
+                0x20000e5c        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000e5c                stepValue
+ .bss.SD2       0x20000e60       0x60 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000e60                SD2
+ .bss.timeOut   0x20000ec0        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000ec0                timeOut
+ .bss.checkTimeOut.4836
+                0x20000ec4        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .bss.ch        0x20000ec8       0x78 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000ec8                ch
+ .bss.n_di      0x20000f40        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f40                n_di
+ .bss.w_d       0x20000f44        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f44                w_d
+ .bss.trigger   0x20000f48        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f48                trigger
+ .bss.waveDbuff
+                0x20000f4c        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f4c                waveDbuff
+ .bss.postsamples
+                0x20000f50        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f50                postsamples
+ .bss.GPTD3     0x20000f54       0x10 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f54                GPTD3
+ .bss.w_posd    0x20000f64        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f64                w_posd
+ .bss.endTicker
+                0x20000f68        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f68                endTicker
+ .bss.buff      0x20000f6c     0xea60 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x20000f6c                buff
+ .bss.w_s       0x2000f9cc        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x2000f9cc                w_s
+ .bss.EXTD1     0x2000f9d0        0x8 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x2000f9d0                EXTD1
+ .bss.infiniteWave
+                0x2000f9d8        0x4 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                0x2000f9d8                infiniteWave
+ *(COMMON)
+                0x2000f9dc                . = ALIGN (0x4)
+                0x2000f9dc                _bss_end = .
+                0x2000f9dc                PROVIDE (end, .)
+
+.ram0_init      0x2000f9dc        0x0 load address 0x08006ad8
+                0x2000f9dc                . = ALIGN (0x4)
+                0x08006ad8                __ram0_init_text__ = LOADADDR (.ram0_init)
+                0x2000f9dc                __ram0_init__ = .
+ *(.ram0_init)
+ *(.ram0_init.*)
+                0x2000f9dc                . = ALIGN (0x4)
+
+.ram0           0x2000f9dc        0x0 load address 0x08006ad8
+                0x2000f9dc                . = ALIGN (0x4)
+                0x2000f9dc                __ram0_clear__ = .
+ *(.ram0_clear)
+ *(.ram0_clear.*)
+                0x2000f9dc                . = ALIGN (0x4)
+                0x2000f9dc                __ram0_noinit__ = .
+ *(.ram0)
+ *(.ram0.*)
+                0x2000f9dc                . = ALIGN (0x4)
+                0x2000f9dc                __ram0_free__ = .
+
+.ram1_init      0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x08006ad8                __ram1_init_text__ = LOADADDR (.ram1_init)
+                0x00000000                __ram1_init__ = .
+ *(.ram1_init)
+ *(.ram1_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram1           0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_clear__ = .
+ *(.ram1_clear)
+ *(.ram1_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_noinit__ = .
+ *(.ram1)
+ *(.ram1.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_free__ = .
+
+.ram2_init      0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x08006ad8                __ram2_init_text__ = LOADADDR (.ram2_init)
+                0x00000000                __ram2_init__ = .
+ *(.ram2_init)
+ *(.ram2_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram2           0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_clear__ = .
+ *(.ram2_clear)
+ *(.ram2_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_noinit__ = .
+ *(.ram2)
+ *(.ram2.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_free__ = .
+
+.ram3_init      0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x08006ad8                __ram3_init_text__ = LOADADDR (.ram3_init)
+                0x00000000                __ram3_init__ = .
+ *(.ram3_init)
+ *(.ram3_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram3           0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_clear__ = .
+ *(.ram3_clear)
+ *(.ram3_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_noinit__ = .
+ *(.ram3)
+ *(.ram3.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_free__ = .
+
+.ram4_init      0x10000000        0x0 load address 0x08006ad8
+                0x10000000                . = ALIGN (0x4)
+                0x08006ad8                __ram4_init_text__ = LOADADDR (.ram4_init)
+                0x10000000                __ram4_init__ = .
+ *(.ram4_init)
+ *(.ram4_init.*)
+                0x10000000                . = ALIGN (0x4)
+
+.ram4           0x10000000        0x0 load address 0x08006ad8
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                __ram4_clear__ = .
+ *(.ram4_clear)
+ *(.ram4_clear.*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                __ram4_noinit__ = .
+ *(.ram4)
+ *(.ram4.*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                __ram4_free__ = .
+
+.ram5_init      0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x08006ad8                __ram5_init_text__ = LOADADDR (.ram5_init)
+                0x00000000                __ram5_init__ = .
+ *(.ram5_init)
+ *(.ram5_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram5           0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_clear__ = .
+ *(.ram5_clear)
+ *(.ram5_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_noinit__ = .
+ *(.ram5)
+ *(.ram5.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_free__ = .
+
+.ram6_init      0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x08006ad8                __ram6_init_text__ = LOADADDR (.ram6_init)
+                0x00000000                __ram6_init__ = .
+ *(.ram6_init)
+ *(.ram6_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram6           0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_clear__ = .
+ *(.ram6_clear)
+ *(.ram6_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_noinit__ = .
+ *(.ram6)
+ *(.ram6.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_free__ = .
+
+.ram7_init      0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x08006ad8                __ram7_init_text__ = LOADADDR (.ram7_init)
+                0x00000000                __ram7_init__ = .
+ *(.ram7_init)
+ *(.ram7_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram7           0x00000000        0x0 load address 0x08006ad8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_clear__ = .
+ *(.ram7_clear)
+ *(.ram7_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_noinit__ = .
+ *(.ram7)
+ *(.ram7.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_free__ = .
+
+.heap           0x2000f9dc      0x624
+                0x2000f9e0                . = ALIGN (0x8)
+ *fill*         0x2000f9dc        0x4 
+                0x2000f9e0                __heap_base__ = .
+                0x20010000                . = (ORIGIN (HEAP_RAM) + 0x10000)
+ *fill*         0x2000f9e0      0x620 
+                0x20010000                __heap_end__ = .
+                0x00000400                __process_stack_size__ = 0x400
+                0x00000400                __main_stack_size__ = 0x400
+START GROUP
+LOAD m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a
+LOAD m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a
+LOAD m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+END GROUP
+OUTPUT(build/ch.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x25 build/obj/crt0_v7m.o
+ .ARM.attributes
+                0x00000025       0x25 build/obj/chcoreasm_v7m.o
+ .ARM.attributes
+                0x0000004a       0x37 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000081       0x37 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000b8       0x37 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000ef       0x37 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+ .ARM.attributes
+                0x00000126       0x22 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000148       0x22 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000016a       0x22 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x0000018c       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x000001c0       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x000001f4       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000228       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x0000025c       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x00000290       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x000002c4       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000002f8       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x0000032c       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x00000360       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x00000394       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x000003c8       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x000003fc       0x22 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000041e       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000452       0x34 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .comment       0x00000000       0x71 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .comment       0x00000000       0x71 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+
+.debug_info     0x00000000     0xc97c
+ .debug_info    0x00000000     0x4d3f M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .debug_info    0x00004d3f     0x3e6c M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .debug_info    0x00008bab     0x3045 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .debug_info    0x0000bbf0      0xd8c M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+
+.debug_abbrev   0x00000000     0x15ea
+ .debug_abbrev  0x00000000      0x555 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .debug_abbrev  0x00000555      0x6e8 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .debug_abbrev  0x00000c3d      0x5d5 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .debug_abbrev  0x00001212      0x3d8 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+
+.debug_loc      0x00000000     0x4655
+ .debug_loc     0x00000000     0x18a3 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .debug_loc     0x000018a3     0x1e70 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .debug_loc     0x00003713      0xaaa M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .debug_loc     0x000041bd      0x498 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+
+.debug_aranges  0x00000000      0x2d0
+ .debug_aranges
+                0x00000000       0x20 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000020      0x1c8 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .debug_aranges
+                0x000001e8       0x78 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000260       0x70 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+
+.debug_ranges   0x00000000     0x1f90
+ .debug_ranges  0x00000000     0x1120 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .debug_ranges  0x00001120      0x720 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .debug_ranges  0x00001840      0x648 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .debug_ranges  0x00001e88      0x108 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+
+.debug_line     0x00000000     0x3790
+ .debug_line    0x00000000     0x11c8 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .debug_line    0x000011c8     0x1310 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .debug_line    0x000024d8      0xc24 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .debug_line    0x000030fc      0x694 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+
+.debug_str      0x00000000     0x265b
+ .debug_str     0x00000000     0x1986 M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                               0x1ab1 (size before relaxing)
+ .debug_str     0x00001986      0x81e M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                               0x10c2 (size before relaxing)
+ .debug_str     0x000021a4      0x2e9 M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                0xd8b (size before relaxing)
+ .debug_str     0x0000248d      0x1ce M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                0x71e (size before relaxing)
+
+.debug_frame    0x00000000      0x9ec
+ .debug_frame   0x00000000       0x2c M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ .debug_frame   0x0000002c      0x550 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+ .debug_frame   0x0000057c      0x13c M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ .debug_frame   0x000006b8      0x128 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+ .debug_frame   0x000007e0       0x40 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x00000820       0x44 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x00000864       0x3c m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x000008a0       0x20 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x000008c0       0x20 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x000008e0       0x28 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00000908       0x20 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00000928       0x20 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00000948       0x30 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x00000978       0x2c m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x000009a4       0x28 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x000009cc       0x20 m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ACdisable                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+ACenable                                          M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+BusFault_Handler                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+DebugMon_Handler                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+EXTD1                                             M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+GPTD3                                             M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+HardFault_Handler                                 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+MemManage_Handler                                 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+NMI_Handler                                       M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+PendSV_Handler                                    M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Reset_Handler                                     build/obj/crt0_v7m.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+SD2                                               M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+SVC_Handler                                       M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+SysTick_Handler                                   M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+UsageFault_Handler                                M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector100                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector104                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector108                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector10C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector110                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector114                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector118                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector11C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector120                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector124                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector128                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector12C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector130                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector134                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector138                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector13C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector140                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector144                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector148                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector14C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector150                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector154                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector158                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector15C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector160                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector164                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector168                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector16C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector170                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector174                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector178                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector17C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector180                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector184                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector188                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector18C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector190                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector194                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector198                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector19C                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector1C                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector20                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector24                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector28                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector34                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector40                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector44                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector48                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector4C                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector50                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector54                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector58                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector5C                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector60                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector64                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector68                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector6C                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector70                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector74                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector78                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector7C                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector80                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector84                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector88                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector8C                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector90                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector94                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector98                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+Vector9C                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorA0                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorA4                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorA8                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorAC                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorB0                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorB4                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorB8                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorBC                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorC0                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorC4                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorC8                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorCC                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorD0                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorD4                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorDC                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorE0                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorE4                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorE8                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorEC                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorF0                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorF4                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorF8                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+VectorFC                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+__adddf3                                          m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2f                                       m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+__aeabi_dadd                                      m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+__aeabi_dcmpeq                                    m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+__aeabi_dcmpge                                    m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_dcmpgt                                    m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+__aeabi_dcmple                                    m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+__aeabi_dcmplt                                    m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+__aeabi_ddiv                                      m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+__aeabi_dmul                                      m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+__aeabi_drsub                                     m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+__aeabi_f2d                                       m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+__aeabi_i2d                                       m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+__aeabi_l2d                                       m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ui2d                                      m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ul2d                                      m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__cmpdf2                                          m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__core_init                                       M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  build/obj/crt0_v7m.o
+__default_exit                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  build/obj/crt0_v7m.o
+__divdf3                                          m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+__early_init                                      M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  build/obj/crt0_v7m.o
+__eqdf2                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__errno                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+__extendsfdf2                                     m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__fdlib_version                                   m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_lib_ver.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+__fini_array_end                                  build/obj/crt0_v7m.o
+__fini_array_start                                build/obj/crt0_v7m.o
+__floatdidf                                       m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__fpclassifyd                                     m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fpclassify.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+__gedf2                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__gtdf2                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__heap_base__                                     M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+__heap_end__                                      M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+__ieee754_pow                                     m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+__ieee754_sqrt                                    m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_sqrt.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+__init_array_end                                  build/obj/crt0_v7m.o
+__init_array_start                                build/obj/crt0_v7m.o
+__init_ram_areas                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  build/obj/crt0_v7m.o
+__late_init                                       M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  build/obj/crt0_v7m.o
+__ledf2                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__ltdf2                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__main_stack_base__                               build/obj/crt0_v7m.o
+__main_stack_end__                                M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  build/obj/crt0_v7m.o
+__muldf3                                          m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+__nedf2                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__process_stack_base__                            build/obj/crt0_v7m.o
+__process_stack_end__                             build/obj/crt0_v7m.o
+__ram0_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram0_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram0_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram0_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram1_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram1_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram1_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram1_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram2_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram2_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram2_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram2_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram3_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram3_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram3_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram3_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram4_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram4_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram4_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram4_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram5_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram5_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram5_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram5_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram6_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram6_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram6_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram6_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram7_clear__                                    M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram7_init__                                     M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram7_init_text__                                M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__ram7_noinit__                                   M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+__subdf3                                          m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__truncdfsf2                                      m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_truncdfsf2.o)
+_bss_end                                          build/obj/crt0_v7m.o
+_bss_start                                        build/obj/crt0_v7m.o
+_data_end                                         build/obj/crt0_v7m.o
+_data_start                                       build/obj/crt0_v7m.o
+_get.8453                                         M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_gett.8449                                        M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_global_impure_ptr                                m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+_idle_thread.4351                                 M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_impure_ptr                                       m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-errno.o)
+_pal_lld_setgroupmode                             M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_port_exit_from_isr                               build/obj/chcoreasm_v7m.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+_port_irq_epilogue                                M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+_port_switch                                      build/obj/chcoreasm_v7m.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+_port_switch_from_isr                             build/obj/chcoreasm_v7m.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+_port_thread_start                                build/obj/chcoreasm_v7m.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_put.8461                                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_putt.8456                                        M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_read.8433                                        M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_readt.8426                                       M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_textdata_start                                   build/obj/crt0_v7m.o
+_vectors                                          M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  build/obj/crt0_v7m.o
+_write.8444                                       M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+_writet.8438                                      M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+asyncReadCallback.9915                            M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+buff                                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+buttonCall.10500                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+ch                                                M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+chCoreAllocAligned                                M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+chEvtBroadcastFlagsI                              M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+chSchDoReschedule                                 M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  build/obj/chcoreasm_v7m.o
+chSchGoSleepS                                     M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+chSchReadyI                                       M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+chTMStartMeasurementX.constprop.25                M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+chTMStopMeasurementX                              M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+chThdEnqueueTimeoutS                              M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+chThdExit                                         M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  build/obj/chcoreasm_v7m.o
+channelAC                                         M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+chprintf.constprop.1                              M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+copysign                                          m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_copysign.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+crcResponse                                       M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+crcRx                                             M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+crcTx                                             M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+currentBsize                                      M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+dualWavePlayCallback.9910                         M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+dualWaveResponseCallback.9901                     M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+dumpInBuffer                                      M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+endTicker                                         M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+endmem.7038                                       M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+fabs                                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_fabs.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+finite                                            m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_finite.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+getByte                                           M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+getU16                                            M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+gptStart.constprop.14                             M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+gptStartContinuous.constprop.10                   M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+gptStop.constprop.12                              M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+gptStopTimer.constprop.8                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+halt                                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+inBuffPos                                         M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+infiniteWave                                      M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+iqGetTimeout                                      M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+iqReadTimeout                                     M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+main                                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  build/obj/crt0_v7m.o
+matherr                                           m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_matherr.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+n_ai                                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+n_di                                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+n_s                                               M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+nan                                               m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_nan.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+nextmem.7034                                      M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+notify2.9246                                      M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+nread                                             M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+oqPutTimeout                                      M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+overrun                                           M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+overrun_error                                     M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+postsamples                                       M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+pow                                               m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+presamples                                        M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+rint                                              m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_rint.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-w_pow.o)
+samplePhase                                       M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+samples                                           M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+scalbn                                            m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-s_scalbn.o)
+                                                  m:/mcu/stm32_juno/gnu-arm/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-e_pow.o)
+sendByte                                          M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+sendCRC                                           M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+sendMantExp                                       M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+sendU16                                           M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+singleWaveResponseCallback.9904                   M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+softReset                                         M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+stepResponseCallback.9895                         M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+stepValue                                         M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+stime                                             M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+timeOut                                           M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+timeout_error                                     M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+tranBuff                                          M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+trigger                                           M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+triggerMode                                       M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+triggerSample                                     M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+triggeredReadCallback.9892                        M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+vref                                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+w_d                                               M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+w_n                                               M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+w_pos                                             M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+w_pos2                                            M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+w_posd                                            M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+w_s                                               M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+w_s2                                              M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+wave2buff                                         M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+waveDbuff                                         M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans2.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+wavePlayCallback.9907                             M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+waveResponseCallback.9898                         M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+waved_base                                        M:\MCU\tmp\ccvuZjNe.ltrans0.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans3.ltrans.o
+                                                  M:\MCU\tmp\ccvuZjNe.ltrans1.ltrans.o

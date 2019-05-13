@@ -14,12 +14,5 @@ Jupyter shall start on the *"Jupyter"* folder
 
 Before starting Jupyter, the **PHYTHONPATH** variable should point to the *"Code"* folder
 
-The *"Anaconda_SLab_Jupyter.bat"* in the *"Scripts"* folder provides one example for Windows that works for an **Anaconda** installation:
-
-`SET PATH=%PATH%;\Anaconda_Win64   
-SET PATH=%PATH%;\Anaconda_Win64\Scripts   
-SET PATH=%PATH%;\Anaconda_Win64\Library\bin;   
-set PYTHONPATH=\SLab\Code   
-cd \SLab\Jupyter   
-jupyter notebook`   
+The *"Anaconda_SLab_Jupyter.bat"* in the *"Scripts"* folder provides one example for Windows that works for an **Anaconda** installation. 
 

@@ -10,6 +10,8 @@ User interface is built around **Jupyter Notebooks** that contain **Python** Cod
 
 In order to use the software you need to have a working Python 3 system with Jupyter installed
 
+Copy all the files and folders inside a main *"SLab"* folder
+
 Jupyter shall start on the *"Jupyter"* folder
 
 Before starting Jupyter, the **PHYTHONPATH** variable should point to the *"Code"* folder

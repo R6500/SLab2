@@ -16,3 +16,8 @@ Before starting Jupyter, the **PHYTHONPATH** variable should point to the *"Code
 
 The *"Anaconda_SLab_Jupyter.bat"* in the *"Scripts"* folder provides one example for Windows that works for an **Anaconda** installation. 
 
+All the files are provided in a zip file *"SLab2 (version).zip"* file to ease downloading.
+
+## History
+
+13/05/2019 : v2.00 : First release

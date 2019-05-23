@@ -18,7 +18,7 @@ Before starting Jupyter, the **PHYTHONPATH** variable should point to the *"Code
 
 The *"SLab/Jupyter.bat"* and the *"SLab/Custom.bat"* files are launch script examples for Windows that works for an [Anaconda](https://www.anaconda.com/) Python3 installation.
 
-The *"Slab/Jupyter.sh" is a launch script example for Linux that also works for an [Anaconda](https://www.anaconda.com/) Python3 installation.
+The *"Slab/Jupyter.sh"* is a launch script example for Linux that also works for an [Anaconda](https://www.anaconda.com/) Python3 installation.
 
 All the files are provided in a zip file *"SLab (version).zip"* file to ease downloading.
 

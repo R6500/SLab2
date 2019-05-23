@@ -16,7 +16,7 @@ Jupyter shall start on the *"SLab/Jupyter"* folder
 
 Before starting Jupyter, the **PHYTHONPATH** variable should point to the *"Code"* folder
 
-The *"SLab/Jupyter.bat"* and the *"SLab/Custom.bat"* files are launch script examples for Windows that works for an [Anaconda](https://www.anaconda.com/) Python3 installation.
+The *"SLab/Jupyter.bat"* and the *"SLab Custom.bat"* files are launch script examples for Windows that works for an [Anaconda](https://www.anaconda.com/) Python3 installation.
 
 The *"Slab/Jupyter.sh"* is a launch script example for Linux that also works for an [Anaconda](https://www.anaconda.com/) Python3 installation.
 

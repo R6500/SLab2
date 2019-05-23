@@ -1,0 +1,29 @@
+===================
+ Calibration files
+===================
+
+Calibration files are:
+
+   Cal_ADC.dat
+   Cal_DAC.dat
+   Cal_Vdd.dat 
+
+Subolders inside this folder are custom calibrations
+
+Some folders contain generic calibrations.
+They are obtained form a particular board and will be better than
+nothing if you have a board of the same kind.
+It is better, however, if you perform an specific calibration.
+
+   F303Zero: Generic calibration for SLab Zero F303
+
+Other folders contain calibrations for specific boards.
+They are of not use to you if you don't have those exact boards.
+You can can erase those folders if you don't need them.
+   
+   Fat1  : Fat board #1 SLab Zero F303
+           Last calibrated on 1/6/2018
+   
+   Long1 : Long board #1 (Copper) SLab Zero F303
+           Last calibrated on 31/5/2018
+
